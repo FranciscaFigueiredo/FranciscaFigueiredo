@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Francisca Figueiredo <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/></h1>
+<h1 align="center">Hi there! I'm Francisca Figueiredo <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" width="30"/></h1>
 
 <div align="center">
   
