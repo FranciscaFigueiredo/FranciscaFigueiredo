@@ -51,6 +51,7 @@
 ![NPM](https://img.shields.io/badge/NPM-FFF?style=for-the-badge&logo=npm)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=for-the-badge&logo=ESLint)
 ![husky](https://img.shields.io/badge/Husky-b0b0d5?style=for-the-badge)
