@@ -4,7 +4,7 @@
   
   <p>- <a href='https://www.driven.com.br/'><img width='15px' src='https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg' alt="Driven Education" /></a>  Web Development Student at Driven Education</p>
   <p>- <a href='http://www.uesb.br/' >📚</a> Student of Information Systems at UESB</p>
-  <p>- 🧪 I'm currently learning Typescript</p>
+  <p>- 🧪 I'm currently learning Typescript and ORM</p>
   <p>- 😄 Pronouns: She/Her</p>
 
 </div>
