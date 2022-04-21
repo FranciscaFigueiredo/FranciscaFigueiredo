@@ -4,7 +4,7 @@
   
   <p>- <a href='https://www.driven.com.br/'><img width='15px' src='https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg' alt="Driven Education" /></a>  Web Development Student at Driven Education</p>
   <p>- <a href='http://www.uesb.br/' >📚</a> Student of Information Systems at UESB</p>
-  <p>- 🧪 I'm currently learning Unitary Testing and BackEnd Architectures</p>
+  <p>- 🧪 I'm currently learning Back-end Architectures and Prisma</p>
   <p>- 😄 Pronouns: She/Her</p>
 
 </div>
@@ -39,10 +39,11 @@
 #### **Back-end**
 
 ![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![ExpressJS Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 #### **Tools**
 
