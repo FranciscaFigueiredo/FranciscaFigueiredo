@@ -8,7 +8,9 @@
 
 <div align="center">
 
-## Technologies 
+## **Technologies**
+
+</br>
 
 #### **Front-end**
 
@@ -50,6 +52,10 @@
 
 &nbsp;
 
+## **Stats**
+
+</br>
+
 <div align="center">
 
   ![Francisca's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscaFigueiredo&show_icons=true&theme=radical&count_private=true&hide=stars,issues)
@@ -64,8 +70,10 @@
 
 &nbsp;
 
-  ## Contact me!
+  ## **Contact me!**
   
+  </br>
+
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fraan928@gmail.com)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscafigueiredo/)
   
