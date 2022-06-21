@@ -1,27 +1,10 @@
-<h1 align="center">Hi there! I'm Francisca Figueiredo <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" width="30"/></h1>
-
-<div align="flex-start">
+# Hi there! I'm Francisca Figueiredo <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" width="30"/>
   
-  <p>- <a href='https://www.driven.com.br/'><img width='15px' src='https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg' alt="Driven Education" /></a>  Web Development Student at Driven Education</p>
-  <p>- <a href='http://www.uesb.br/' >📚</a> Student of Information Systems at UESB</p>
-  <p>- 🧪 I'm currently learning Back-end Architectures and Prisma</p>
-  <p>- 😄 Pronouns: She/Her</p>
+- <a href='https://www.driven.com.br/'><img width='15px' src='https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg' alt="Driven Education" /></a>  Web Developer at Driven Education
+- <a href='http://www.uesb.br/' >📚</a> Student of Information Systems at UESB
+- 😄 Pronouns: She/Her
 
-</div>
-
-<br>
-
-<div align="center">
-
-  ![Francisca's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscaFigueiredo&show_icons=true&theme=radical&count_private=true&hide=stars,issues)
-  ![Francisca's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscaFigueiredo&show_icons=true&layout=compact&theme=radical)
-  [![Francisca's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FranciscaFigueiredo&layout=compact&theme=radical)](https://wakatime.com/@FranciscaFigueiredo)
-
-  
-
-</div>
-
-<br>
+&nbsp;
 
 <div align="center">
 
@@ -46,7 +29,7 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-#### **Tools**
+#### **🔧Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -58,10 +41,33 @@
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=for-the-badge&logo=ESLint)
 ![husky](https://img.shields.io/badge/Husky-b0b0d5?style=for-the-badge)
 
+
+#### **☁️Cloud**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+&nbsp;
+
+<div align="center">
+
+  ![Francisca's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscaFigueiredo&show_icons=true&theme=radical&count_private=true&hide=stars,issues)
+
+  ![Francisca's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscaFigueiredo&show_icons=true&layout=compact&theme=radical)
+
+  [![Francisca's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FranciscaFigueiredo&layout=compact&theme=radical)](https://wakatime.com/@FranciscaFigueiredo)
+
   
+
+</div>
+
+&nbsp;
+
   ## Contact me!
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fraan928@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscafigueiredo/)
   
 </div>
 <!-- https://github.com/anuraghazra/github-readme-stats#themes -->
