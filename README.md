@@ -1,6 +1,6 @@
 # Hi there! I'm Francisca Figueiredo <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" width="30"/>
 
-- <a href='https://pluga.co/'><img width='15px' src='https://yt3.ggpht.com/F2CQ9LI4alpzI8_WzmqUwigbL24iW7mCOyKvCp8ZK1KQmdFxPk0nDe7GhGiKQfMn6MTI5yBMMfY=s48-c-k-c0x00ffffff-no-rj' alt="Driven Education" /></a>  Software Engineer at Pluga
+- <a href='https://pluga.co/'><img width='15px' src='https://assets.pluga.co/site/images/materiais/icon-all.svg' alt="Pluga.co" /></a>  Software Engineer at Pluga
 - <a href='https://www.driven.com.br/'><img width='15px' src='https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg' alt="Driven Education" /></a>  Graduated in FullStack Web Development by Driven
 - <a href='http://www.uesb.br/' >📚</a> Student of Information Systems at UESB
 - 😄 Pronouns: She/Her
